@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "musticapro";
+    src: url("./fonts/musticapro_semibold.otf");
+}
+
+body {
+    font-family: "musticapro";
+    margin: 0;
+}
